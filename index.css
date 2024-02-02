@@ -1,0 +1,16 @@
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 20px; 
+} 
+  
+.btn {
+    margin: 40vh 90vh;
+    color: #fff;
+    background-color: #555555;
+    cursor: pointer;
+    padding: 15px 32px;
+    font-size: 16px;
+}
+body{
+    background-color: violet;
+}
